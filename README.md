@@ -28,15 +28,10 @@
 - 📫	Education:
  
       -NANODEGREE PROGRAM  in Advanced Android Kotlin Development
-   [confirm.udacity.com/QHKXZC9D From UDACITY].
-      - Master's Degree in (Artificial Intelligence (Computer Science Department) 
- Faculty of Graduate Studies for Statistical Research -Cairo University )
-  
-    - Bachelor’s Degree in (Information System Department)
-Faculty of Commerce -Helwan University
+      - Master's Degree in (Artificial Intelligence (Computer Science Department) Faculty of Graduate Studies for Statistical Research -Cairo University )
+      - Bachelor’s Degree in (Information System Department)Faculty of Commerce -Helwan University
 
 <br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">  
 <div align="left">
