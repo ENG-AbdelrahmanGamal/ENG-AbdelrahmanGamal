@@ -8,21 +8,20 @@
 ## Views & Followers & Education
 <a href="https://github.com/samehesmael277/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=samehesmael277"> </a>
-<a href="https://github.com/samehesmael277?tab=followers"><img src="https://img.shields.io/github/followers/samehesmael277?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ENG-AbdelrahmanGamal?tab=followers"><img src="https://img.shields.io/github/followers/samehesmael277?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 
-<p align="left"> <a href="https://twitter.com/sameh_esmael" target="blank"><img src="https://img.shields.io/twitter/follow/sameh_esmael?logo=twitter&style=for-the-badge" alt="sameh_esmael" /></a> </p>
+<p align="left"> <a href="https://twitter.com/home" target="blank"><img src="https://img.shields.io/twitter/follow/Abdelra61168142?logo=twitter&style=for-the-badge" alt="AbdelRahman Gamal" /></a> </p>
 
 <br>
 
 
-- 👨‍💻 All of my projects are available at [(https://github.com/ENG-AbdelrahmanGamal?tab=repositories)]
+- 👨‍💻 All of my projects are available at (https://github.com/ENG-AbdelrahmanGamal?tab=repositories)
 
-- 📝 I regularly write articles on [https://same7virus.blogspot.com/](https://same7virus.blogspot.com/)
 
 - 📫 How to reach me **abdelrahmanbetter@gmail.com**
-- - 📫 How to reach me **abdelrahmanbetter@hotmail.com**
-- 📫 How to reach me **<abdelrahmanbetter@stud.cu.edu.eg>**
+   **abdelrahmanbetter@hotmail.com**
+   **abdelrahmanbetter@stud.cu.edu.eg**
 
 
 - ⚡ Fun fact **Writing code and seeing the output is very fun**
