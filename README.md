@@ -21,7 +21,7 @@
 - ⚡ Fun fact **Writing code and seeing the output is very fun**
 - 📫	Education:
   
-      -NANODEGREE PROGRAM  in Advanced Android Kotlin Development
+      -NANODEGREE PROGRAM Degree in Advanced Android Kotlin Development
       -Master's Degree in (Artificial Intelligence (Computer Science Department) Faculty of Graduate Studies for Statistical Research -Cairo University )
       -Bachelor’s Degree in (Information System Department)Faculty of Commerce -Helwan University
   <br><br>
