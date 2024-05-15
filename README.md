@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Gamal Sobhi</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Abdelrahman Gamal Sobhi</h1>
 <h3 align="center">Android Native (Java & Kotlin & Flutter) Developer</h3>
-
-<br><br>
+ <h3 align="center" > <a  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a></h3>
 
 <p><img align="right" src="(https://github.com/ENG-AbdelrahmanGamal/ENG-AbdelrahmanGamal/assets/75239634/7ccb1029-9444-4b85-aaa5-384894679fb6)"/></p>
 <p align="left"> <a href="" target="blank"><img src="" alt="Abdelrahman Gamal" /></a> </p>
@@ -22,8 +21,13 @@
       -NANODEGREE PROGRAM  in Advanced Android Kotlin Development
       -Master's Degree in (Artificial Intelligence (Computer Science Department) Faculty of Graduate Studies for Statistical Research -Cairo University )
       -Bachelor’s Degree in (Information System Department)Faculty of Commerce -Helwan University
+  <br><br>
 
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENG-AbdelrahmanGamal&layout=compact&hide=html" alt="Abdelrahman Gamal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ENG-AbdelrahmanGamal&show_icons=true" alt="Abdelrahman Gamal" /></p>
+<br><br><br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">  
 <div align="left">
@@ -60,15 +64,9 @@
 
 <br><br>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ENG-AbdelrahmanGamal &hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ENG-AbdelrahmanGamal &locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <br><br>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ENG-AbdelrahmanGamal &theme=dark" alt="ENG-AbdelrahmanGamal " /></p>
-
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ENG-AbdelrahmanGamal&theme=dark&hide_border=true&border_radius=17.9&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+</p>
 <br>
 
