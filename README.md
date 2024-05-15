@@ -3,16 +3,18 @@
  <h3 align="center" > <a  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a></h3>
 
 <p><img align="right" src="(https://github.com/ENG-AbdelrahmanGamal/ENG-AbdelrahmanGamal/assets/75239634/7ccb1029-9444-4b85-aaa5-384894679fb6)"/></p>
-<p align="left"> <a href="" target="blank"><img src="" alt="Abdelrahman Gamal" /></a> </p>
+
 
 ## Education & Following & Projects
 
 - 👨‍💻 All of my projects are available at (https://github.com/ENG-AbdelrahmanGamal?tab=repositories)
 
 
-- 📫 How to reach me **abdelrahmanbetter@gmail.com**
-   **abdelrahmanbetter@hotmail.com**
-   **abdelrahmanbetter@stud.cu.edu.eg**
+- 📫 How to reach me
+- </a> &nbsp;&nbsp;&nbsp;  <a href="abdelrahmanbetter@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/abdelrahmanbetter@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+- **abdelrahmanbetter@gmail.com**
+-  **abdelrahmanbetter@hotmail.com**
+-   **abdelrahmanbetter@stud.cu.edu.eg**
 
 
 - ⚡ Fun fact **Writing code and seeing the output is very fun**
@@ -23,9 +25,9 @@
       -Bachelor’s Degree in (Information System Department)Faculty of Commerce -Helwan University
   <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENG-AbdelrahmanGamal&layout=compact&hide=html" alt="Abdelrahman Gamal" /></p>
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENG-AbdelrahmanGamal&show_icons=true&theme=dark&layout=compact&hide=html" alt="Abdelrahman Gamal theme=tokyonight"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ENG-AbdelrahmanGamal&show_icons=true" alt="Abdelrahman Gamal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ENG-AbdelrahmanGamal&show_icons=true&theme=dark"&show_icons=true" alt="Abdelrahman Gamal  theme=tokyonight" /></p>
 <br><br><br>
 
 <h3 align="left">Connect with me:</h3>
@@ -66,7 +68,7 @@
 
 <br><br>
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ENG-AbdelrahmanGamal&theme=dark&hide_border=true&border_radius=17.9&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.abdelrahman.com?user=ENG-AbdelrahmanGamal&theme=dark&hide_border=true&border_radius=17.9&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 </p>
 <br>
 
