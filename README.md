@@ -10,11 +10,12 @@
 - 👨‍💻 All of my projects are available at (https://github.com/ENG-AbdelrahmanGamal?tab=repositories)
 
 
-- 📫 How to reach me
-- </a> &nbsp;&nbsp;&nbsp;  <a href="abdelrahmanbetter@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/abdelrahmanbetter@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-- **abdelrahmanbetter@gmail.com**
--  **abdelrahmanbetter@hotmail.com**
--   **abdelrahmanbetter@stud.cu.edu.eg**
+- 📫 How to reach me<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+
+
+<a >- **abdelrahmanbetter@gmail.com**</a><br>
+<a >-  **abdelrahmanbetter@hotmail.com**</a><br>
+<a >-   **abdelrahmanbetter@stud.cu.edu.eg**</a>
 
 
 - ⚡ Fun fact **Writing code and seeing the output is very fun**
@@ -25,9 +26,9 @@
       -Bachelor’s Degree in (Information System Department)Faculty of Commerce -Helwan University
   <br><br>
 
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENG-AbdelrahmanGamal&show_icons=true&theme=dark&layout=compact&hide=html" alt="Abdelrahman Gamal theme=tokyonight"/></p>
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENG-AbdelrahmanGamal&show_icons=true&theme=gray&layout=compact&hide=html" alt="Abdelrahman Gamal theme=tokyonight"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ENG-AbdelrahmanGamal&show_icons=true&theme=dark"&show_icons=true" alt="Abdelrahman Gamal  theme=tokyonight" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ENG-AbdelrahmanGamal&show_icons=true&theme=gray"&show_icons=true" alt="Abdelrahman Gamal  theme=tokyonight" /></p>
 <br><br><br>
 
 <h3 align="left">Connect with me:</h3>
@@ -67,8 +68,9 @@
 <br><br>
 
 <br><br>
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.abdelrahman.com?user=ENG-AbdelrahmanGamal&theme=dark&hide_border=true&border_radius=17.9&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon&card_width=500&card_height=200" alt="GitHub Streak" /></a>
-</p>
+<h3>
+ <a href="https://github.com/ENG-AbdelrahmanGamal/ENG-AbdelrahmanGamal"><img src="https://github-readme-streak-stats.herokuapp.com?user=ENG-AbdelrahmanGamal&theme=dark" alt="GitHub Streak" /></a>
+
+</h3>
 <br>
 
