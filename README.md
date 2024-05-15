@@ -68,7 +68,7 @@
 <br><br>
 
 <br><br>
-<h3>
+<h3 align="center">
  <a href="https://github.com/ENG-AbdelrahmanGamal/ENG-AbdelrahmanGamal"><img src="https://github-readme-streak-stats.herokuapp.com?user=ENG-AbdelrahmanGamal&theme=dark" alt="GitHub Streak" /></a>
 
 </h3>
