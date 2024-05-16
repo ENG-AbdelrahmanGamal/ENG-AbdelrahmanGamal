@@ -1,13 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Abdelrahman Gamal Sobhi</h1>
 <h3 align="center">Android Native and Cross-platform (Java & Kotlin & Flutter) Developer  </h3>
- <h3 align="center" > <a  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;
-                                                                                                   Competitive+Programmer;
-                                                                                                   Keen+on%202%20the%202%20principles%202%20of%202%20SOLID%202%20principles;
-                                                                                                   Great+knolage+of+Database%20|%20Algorithms%20|%20Data+Structure;
-                                                                                                   Specialist%20on%20Codeforces;
-                                                                                                   Keen+on%202%20the%202%20principles%202%20of%202%20clean%202%20architecture;
-                                                                                                   Always%20learning%20new%20things;
-                                                                                                   &center=true&width=500&height=70"></a></h3>
+ <h3 align="center" > <a  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;%20|%20OOP%20Great+%20|%20OOP%20on+the+%20|%20OOP%20principles+of+%20|%20OOP%20SOLID+%20|%20OOP%20principles;%20|%20OOP%20Great%20|%20OOP%20+k%20|%20OOP%20knowlage+of+%20|%20OOP%20Database+%20|%20OOP%20Algorithms+%20|%20OOP%20+Data+Structure%20|%20OOP%20;Specialist+on+Codeforces;Keen+on+the+principles+of+clean+architecture;Always%20learning%20new%20things&center=true&width=500&height=50"></a></h3>
 
 <p><img align="right" src="(https://github.com/ENG-AbdelrahmanGamal/ENG-AbdelrahmanGamal/assets/75239634/7ccb1029-9444-4b85-aaa5-384894679fb6)"/></p>
 
